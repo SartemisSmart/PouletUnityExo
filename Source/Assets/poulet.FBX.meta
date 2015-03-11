@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: d773df3657d3c2646a760597dfbd1a7e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: aile1
+    100002: aile2
+    100004: bec1
+    100006: bec2
+    100008: boneBassin
+    100010: boneCorps
+    100012: bonePatte1
+    100014: bonePied1
+    100016: bonePied2
+    100018: Cha__ne Corps
+    100020: Cha__ne Patte1
+    100022: Cha__ne Patte2
+    100024: corps1
+    100026: corpsBoule
+    100028: corpsPoulet
+    100030: cr__te
+    100032: oeil1
+    100034: oeil2
+    100036: Patte1
+    100038: patte1
+    100040: Patte2
+    100042: patte2
+    100044: pattePoulet1
+    100046: pattePoulet2
+    100048: //RootNode
+    100050: Tige001
+    100052: Tige002
+    100054: Tige003
+    100056: Tige004
+    100058: Tige005
+    100060: Tige006
+    100062: TPhotometricLight001
+    100064: TPhotometricLight001.Target
+    400000: aile1
+    400002: aile2
+    400004: bec1
+    400006: bec2
+    400008: boneBassin
+    400010: boneCorps
+    400012: bonePatte1
+    400014: bonePied1
+    400016: bonePied2
+    400018: Cha__ne Corps
+    400020: Cha__ne Patte1
+    400022: Cha__ne Patte2
+    400024: corps1
+    400026: corpsBoule
+    400028: corpsPoulet
+    400030: cr__te
+    400032: oeil1
+    400034: oeil2
+    400036: Patte1
+    400038: patte1
+    400040: Patte2
+    400042: patte2
+    400044: pattePoulet1
+    400046: pattePoulet2
+    400048: //RootNode
+    400050: Tige001
+    400052: Tige002
+    400054: Tige003
+    400056: Tige004
+    400058: Tige005
+    400060: Tige006
+    400062: TPhotometricLight001
+    400064: TPhotometricLight001.Target
+    2300000: Patte1
+    2300002: Patte2
+    2300004: Tige001
+    2300006: Tige002
+    2300008: Tige003
+    2300010: Tige004
+    2300012: Tige005
+    2300014: Tige006
+    3300000: Patte1
+    3300002: Patte2
+    3300004: Tige001
+    3300006: Tige002
+    3300008: Tige003
+    3300010: Tige004
+    3300012: Tige005
+    3300014: Tige006
+    4300000: aile2
+    4300002: aile1
+    4300004: oeil2
+    4300006: oeil1
+    4300008: cr__te
+    4300010: corpsBoule
+    4300012: bec2
+    4300014: bec1
+    4300016: Patte1
+    4300018: Tige004
+    4300020: Tige005
+    4300022: Tige006
+    4300024: Tige003
+    4300026: Tige002
+    4300028: Tige001
+    4300030: Patte2
+    6400000: Patte1
+    6400002: Patte2
+    6400004: Tige001
+    6400006: Tige002
+    6400008: Tige003
+    6400010: Tige004
+    6400012: Tige005
+    6400014: Tige006
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: aile1
+    13700002: aile2
+    13700004: bec1
+    13700006: bec2
+    13700008: corpsBoule
+    13700010: cr__te
+    13700012: oeil1
+    13700014: oeil2
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boneCorps
+        weight: 1
+      - path: boneCorps/boneBassin
+        weight: 1
+      - path: bonePatte1
+        weight: 1
+      - path: bonePatte1/bonePied1
+        weight: 1
+      - path: bonePied2
+        weight: 1
+      - path: Cha__ne Corps
+        weight: 1
+      - path: Cha__ne Patte1
+        weight: 1
+      - path: Cha__ne Patte2
+        weight: 1
+      - path: corps1
+        weight: 1
+      - path: corps1/corpsPoulet
+        weight: 1
+      - path: corps1/corpsPoulet/aile1
+        weight: 1
+      - path: corps1/corpsPoulet/aile2
+        weight: 1
+      - path: corps1/corpsPoulet/bec1
+        weight: 1
+      - path: corps1/corpsPoulet/bec2
+        weight: 1
+      - path: corps1/corpsPoulet/corpsBoule
+        weight: 1
+      - path: corps1/corpsPoulet/cr__te
+        weight: 1
+      - path: corps1/corpsPoulet/oeil1
+        weight: 1
+      - path: corps1/corpsPoulet/oeil2
+        weight: 1
+      - path: patte1
+        weight: 1
+      - path: patte1/pattePoulet1
+        weight: 1
+      - path: patte1/pattePoulet1/Patte1
+        weight: 1
+      - path: patte1/pattePoulet1/Tige004
+        weight: 1
+      - path: patte1/pattePoulet1/Tige005
+        weight: 1
+      - path: patte1/pattePoulet1/Tige006
+        weight: 1
+      - path: patte2
+        weight: 1
+      - path: patte2/pattePoulet2
+        weight: 1
+      - path: patte2/pattePoulet2/Patte2
+        weight: 1
+      - path: patte2/pattePoulet2/Tige001
+        weight: 1
+      - path: patte2/pattePoulet2/Tige002
+        weight: 1
+      - path: patte2/pattePoulet2/Tige003
+        weight: 1
+      - path: TPhotometricLight001
+        weight: 1
+      - path: TPhotometricLight001.Target
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
